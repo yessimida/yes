@@ -40,7 +40,7 @@
 
 ###   :sunny:程序人生
 
-- [我辈程序员，何惧一战？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485738&idx=1&sn=b503b5f2252b812eb173fb3e1e17896b&chksm=c1626453f615ed45f544733ba4694ac237d915523ec24e3e461a17148b09ddb39de4a1704ccb&token=1260092512&lang=zh_CN#rd)
+- [我辈程序员，何惧一战？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485738&idx=1&sn=b503b5f2252b812eb173fb3e1e17896b&chksm=c1626453f615ed45f544733ba4694ac237d915523ec24e3e461a17148b09ddb39de4a1704ccb&token=1260092512&lang=zh_CN#rd){:target="_blank"}
 - [编码之路，与君共勉。](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485716&idx=1&sn=e860f5b2b8fc1d7927bea173f6b4e20f&chksm=c162646df615ed7b80bffbf81ca22f9c04cfcc44df231f5f1fce171e0e9a982645a9fd959e75&token=1260092512&lang=zh_CN#rd)
 - [我被喷上了热门，这其实反映了当今面试的一种现状](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247486342&idx=1&sn=05e789875f732ccd625390108d97729a&chksm=c16266fff615efe966fc4ba49f9def2da17e5fab04d3c0cfdb55d0518c3dfef885f84b7a0e6e&token=1260092512&lang=zh_CN#rd)
 
