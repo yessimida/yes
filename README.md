@@ -13,6 +13,8 @@
 
 共勉。
 
+我的另一个仓库[ interview-of-legends](https://github.com/yessimida/interview-of-legends)已经写了很多包含答案的面试题，有兴趣的小伙伴可以看看，欢迎 PR
+
 平日的面试题遇到难处，或者看某个知识点翻遍全网的资料还是感觉很模糊、不透彻，也可以联系我。
 
 遇到**合适**的我会整理写出一篇文章，**如果我不会我去请教别人也给你搞出来。**
@@ -43,11 +45,19 @@
 - [我辈程序员，何惧一战？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485738&idx=1&sn=b503b5f2252b812eb173fb3e1e17896b&chksm=c1626453f615ed45f544733ba4694ac237d915523ec24e3e461a17148b09ddb39de4a1704ccb&token=1260092512&lang=zh_CN#rd)
 - [编码之路，与君共勉。](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485716&idx=1&sn=e860f5b2b8fc1d7927bea173f6b4e20f&chksm=c162646df615ed7b80bffbf81ca22f9c04cfcc44df231f5f1fce171e0e9a982645a9fd959e75&token=1260092512&lang=zh_CN#rd)
 - [我被喷上了热门，这其实反映了当今面试的一种现状](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247486342&idx=1&sn=05e789875f732ccd625390108d97729a&chksm=c16266fff615efe966fc4ba49f9def2da17e5fab04d3c0cfdb55d0518c3dfef885f84b7a0e6e&token=1260092512&lang=zh_CN#rd)
+- [如何正确的提问？](https://mp.weixin.qq.com/s/QN29a6NqeUd_gfA35WMG8Q)
+- [开工来面试了几十个人，一言难尽](https://mp.weixin.qq.com/s/bdwaYa3eCplC64YMd_Qtdw)
 
 ###  :ghost:这个很重要  ###
 
 - [国庆期间，我造了台计算机](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485722&idx=1&sn=e032d32e57e35a0810b321ab40e79473&chksm=c1626463f615ed75aad42769717018640cafa559106782915874963353ee0733756ce3259090&token=1260092512&lang=zh_CN#rd)
 - [头条终面：写个消息中间件](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485721&idx=1&sn=a30a9be1685d88c61d7dc5722d50d9c3&chksm=c1626460f615ed767a8e2e9e66f86badc0aeede9a44701ff7fd589c6f978c90369e0e4f6e341&token=1260092512&lang=zh_CN#rd)
+- [为什么那些厚厚的大头书老是看不进去？](https://mp.weixin.qq.com/s/fI1xi0pVmJ-5Y-1dKM9Tew)
+- [今年我读了四个开源项目的源码，来分享下心得](https://mp.weixin.qq.com/s/2EIH_R09e3m72K6zCRm6Dg)
+- [来吧，简历就应该这样写](https://mp.weixin.qq.com/s/IJ4qFNFSWGO9T33KPQzheg)
+- [深度剖析硬盘的秘密](https://mp.weixin.qq.com/s/HBvwn4X1aFEkKG9iYJVs0g)
+- [这本书真就这么神？看完即超神](https://mp.weixin.qq.com/s/WBfiqGhJbt6PnWhG2_Ldeg)
+- [去年，一道蚂蚁金服笔试题，还行，中等难度](https://mp.weixin.qq.com/s/XslIBmm4hAN7KciC19rxgw)
 
 
 ###  :lollipop: 消息队列
@@ -87,6 +97,16 @@
 
 - [上周我面了个三年 Javaer，这几个问题都没答出来](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247486296&idx=1&sn=c4bd10b0f3af02d4ef44af72bcd89f67&chksm=c1626621f615ef37384c9970b0fbf50f753f25fc80ed8f37448de5c7058d8b94cb56e0907a2d&token=1260092512&lang=zh_CN#rd)
 
+- [从 Servlet 入手带你看架构和框架设计的套路](https://mp.weixin.qq.com/s/om7CLDqF2Yjgr8ZUBJxTAw)
+
+- [到底什么是面向对象编程?](https://mp.weixin.qq.com/s/j5tocng0bQmQSXJdaWeaSA)
+
+- [ConcurrentBag 听过没？好家伙高并发知识点十分密集！](https://mp.weixin.qq.com/s/0Dz_A8lWb-nVhSs8M6rf4Q)
+
+- [深入JVM剖析Synchronized](https://mp.weixin.qq.com/s/3PBGQBR9DNphE7jSMvOHXQ)
+
+- [Synchronized 升级到重量级锁之后就下不来了？你错了！](https://mp.weixin.qq.com/s/SUzNj4MsRJJzkhiquuLy0Q)
+
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
   
@@ -96,13 +116,19 @@
 
 - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485731&idx=1&sn=5b95cefa09ef1e72a8010339654b0e5d&chksm=c162645af615ed4c3b56abd083bb4c27a81d4e492682cd54a44a868cfd180f159f93184901bc&token=1260092512&lang=zh_CN#rd)
 - [一文领略 HTTP 的前世今生](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485724&idx=1&sn=70f1bbea6280ca6cee467ceac4633c8a&chksm=c1626465f615ed7300accbce4f67046306b6a5011ac6b2a54cde6de6a275bb15c88da332dc37&token=1260092512&lang=zh_CN#rd)
+- [从演进的角度来讲讲 Cookie 、Session、Token](https://mp.weixin.qq.com/s/vaucBCskb8TWP7So_zI_aw)
+- [HTTPS前置篇，加密算法](https://mp.weixin.qq.com/s/hQXG8RL1opi1hCVJMXtKKw)
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
 
 
-###  :jack_o_lantern:Dubbo  ###
+###  :jack_o_lantern:RPC、Dubbo  ###
 
 - [Dubbo 这波优化好像不够彻底啊？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485729&idx=1&sn=cc8ed967615de699e5733790f2099846&chksm=c1626458f615ed4efb4ba789458ed441932a20c1e88cf0a0f0f7a00311b149bd0e14b1fd9439&token=1260092512&lang=zh_CN#rd)
+- [RPC 核心，万变不离其宗](https://mp.weixin.qq.com/s/XrbnAcW7eFjMsIQy2W4_kQ)
+- [操作系统微内核和Dubbo微内核](https://mp.weixin.qq.com/s/pBnTr8U8gC26DO_9bG8BTQ)
+- [Dubbo 靠它崭露头角](https://mp.weixin.qq.com/s/dGKbkBEZht0ZlrwbktpJ5g)
+- [Dubbo 扩展自适应机制](https://mp.weixin.qq.com/s/6KL1vcTB4CJca9bXsBAgaA)
 - [更多待更新...这个已经答应读者了，之后会写这个系列](#公众号)
 
 ###  :book:分布式  ###
@@ -117,6 +143,12 @@
 
 - [一份走心算法攻略，一份 20W 字刷题笔记](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485718&idx=1&sn=0f769e09543b93e5990ef9d8d62e4b09&chksm=c162646ff615ed792b5b96d347b576d7567cb8500a2857eb72bcef9074fc732f27211d02f021&token=1260092512&lang=zh_CN#rd)
 - [图解+代码|常见限流算法以及限流在单机分布式场景下的思考](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485754&idx=1&sn=625ae0b370b5f744bba36423fc29488a&chksm=c1626443f615ed553936cc00e63dad3f624e2fb1556981f1e3650ecc3cdcaaef4d1469dcf6e1&token=1260092512&lang=zh_CN#rd)
+
+
+
+###   :round_pushpin:操作系统
+
+- [内存分页不就够了？为什么还要分段？](https://mp.weixin.qq.com/s/6F9LE3PJ44TraJMyX2S6sA)
 
 
 
