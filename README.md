@@ -21,7 +21,13 @@
 
 我希望这个开源仓库能对你有所帮助:sparkling_heart:
 
-还有一份拿到**美团 SSP 的小姐姐整理的一份 20W 字的算法刷题笔记**，扫二维码或者**微信搜索yes的练级攻略**，在公众号回复「**算法**」即可获取！！
+这里还有一份算法刷题笔记分享给大家。
+
+我当初刷算法题也是各种寻觅，找各题型专题来练习，去年在算法群遇到个小姐姐，研二拿到了多个公司的 SSP offer。
+
+她刷题期间汇总了一份算法刷题笔记，**很完备，很贴心，1730 页，20W 字，汇总了各大题型，基本上每题都附上了各大佬们在LeetCode上的高质量解题思路**，并附上链接，方便查看原文，整理的很细心。
+
+题型都归类了，所以刷题可以直接看这个pdf上的来，都是汇总的热题，还包含了100%的答案，不用一个个自己找了，
 
 
 
@@ -29,6 +35,8 @@
 
 
 ![](https://img-blog.csdnimg.cn/img_convert/68fe91014e2204e879cc08847c2b870e.png)
+
+扫二维码或者**微信搜索yes的练级攻略**，在公众号回复「**算法**」即可获取！！
 
 # 公众号二维码如下：
 
@@ -47,6 +55,11 @@
 - [我被喷上了热门，这其实反映了当今面试的一种现状](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247486342&idx=1&sn=05e789875f732ccd625390108d97729a&chksm=c16266fff615efe966fc4ba49f9def2da17e5fab04d3c0cfdb55d0518c3dfef885f84b7a0e6e&token=1260092512&lang=zh_CN#rd)
 - [如何正确的提问？](https://mp.weixin.qq.com/s/QN29a6NqeUd_gfA35WMG8Q)
 - [开工来面试了几十个人，一言难尽](https://mp.weixin.qq.com/s/bdwaYa3eCplC64YMd_Qtdw)
+- [吐槽奇葩公司问题](https://mp.weixin.qq.com/s/23B7UHFewY0tMS2nsLg-5w)
+- [破万了，希望做你关注列表里，一个有价值的公众号](https://mp.weixin.qq.com/s/PlPU6MTG2QsD12nQ1J5J7Q)
+- [五一，我想没人比我更卷了](https://mp.weixin.qq.com/s/TJ7ZJIBEL17JsVXBRcxC3w)
+- [你想“躺平”着进大厂吗？](https://mp.weixin.qq.com/s/L9NcYul-xouQiLVzgdXryg)
+- [我要开喷了](https://mp.weixin.qq.com/s/nNm5hrXKjKZQ_u9fjx_Xrg)
 
 ###  :ghost:这个很重要  ###
 
@@ -58,6 +71,7 @@
 - [深度剖析硬盘的秘密](https://mp.weixin.qq.com/s/HBvwn4X1aFEkKG9iYJVs0g)
 - [这本书真就这么神？看完即超神](https://mp.weixin.qq.com/s/WBfiqGhJbt6PnWhG2_Ldeg)
 - [去年，一道蚂蚁金服笔试题，还行，中等难度](https://mp.weixin.qq.com/s/XslIBmm4hAN7KciC19rxgw)
+- [面试问什么是无损降级？](https://mp.weixin.qq.com/s/5ZdmuCe2Ywjh1Na5OhQLjQ)
 
 
 ###  :lollipop: 消息队列
@@ -71,6 +85,7 @@
 - [消息队列之推还是拉，RocketMQ 和 Kafka是如何做的？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485735&idx=1&sn=41ceea4e4f0430c3a5d3cc076e2d7870&chksm=c162645ef615ed489251b8ce2d5bb175a1121b4036ceab111c30156f8fa6a2759a7c853a3dd0&token=1260092512&lang=zh_CN#rd)
 - [消息队列之事务消息，RocketMQ 和 Kafka是如何做的？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485732&idx=1&sn=3231cc9daf8bd5f8f29173adc145e5f6&chksm=c162645df615ed4bc4cf2d020b8fe63807a835760d1d53a205f2b55a8abb0ee8fc84ac00c918&token=1260092512&lang=zh_CN#rd)
 - [进阶必看的 RocketMQ ，就这篇了，一网打尽](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485714&idx=1&sn=76e95371b3188ce97f074e63dcb06f09&chksm=c162646bf615ed7deed37eb4c6a3524cc79e2c3b3e54a5a260f8846d28c6e46ca6efd4a2d654&token=1260092512&lang=zh_CN#rd)
+- [Kafka为什么要抛弃ZooKeeper？](https://mp.weixin.qq.com/s/geR3pDw_Yjhmu8KMsXQosg)
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
 ###  :cyclone: 缓存系列
@@ -106,6 +121,16 @@
 - [深入JVM剖析Synchronized](https://mp.weixin.qq.com/s/3PBGQBR9DNphE7jSMvOHXQ)
 
 - [Synchronized 升级到重量级锁之后就下不来了？你错了！](https://mp.weixin.qq.com/s/SUzNj4MsRJJzkhiquuLy0Q)
+
+- [学JUC？Java官网的动画我给满分！](https://mp.weixin.qq.com/s/np0mq77U_APpEOT3V4pRuw)
+
+- [Java历史上有三次破坏双亲委派模型，是哪三次？](https://mp.weixin.qq.com/s/zZmsi7lpuQHECOHA2ohOvA)
+
+- [学个 P 的Java](https://mp.weixin.qq.com/s/3YNo_iw3XqdGgXBh5pdHCA)
+
+- [深入线程池，并连环17问](https://mp.weixin.qq.com/s/HWoyHgZiUz7pqFhYxfLDNA)
+
+- [Java8的Optional是不是鸡肋？](https://mp.weixin.qq.com/s/eZU83v9qd-MEjBGV03HDSw)
 
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
@@ -149,6 +174,32 @@
 ###   :round_pushpin:操作系统
 
 - [内存分页不就够了？为什么还要分段？](https://mp.weixin.qq.com/s/6F9LE3PJ44TraJMyX2S6sA)
+
+ 
+
+### :sunny:面试杂谈
+
+- [面试的套路汇总](https://mp.weixin.qq.com/s/VNPVhdebBhjgiObFBLq5Nw)
+- [面试官：你有啥缺点，咋回答？](https://mp.weixin.qq.com/s/pQdF6-qNvUkOM6JtHg6I6g)
+- [结合公众号文章的六个面试装逼案例](https://mp.weixin.qq.com/s/n3T0xTcduqTwLAhfwFWr7A)
+- [嘁，哪有什么金三银四，一年四季都是面试。](https://mp.weixin.qq.com/s/zA1ZfvSk-a0GWHys7s5vUA)
+- [看了读者阿里面经，总结了这几个面试关键点](https://mp.weixin.qq.com/s/fIUFg1lueDg0gm7cWJVt4Q)
+
+
+
+### :cherry_blossom:MySQL
+
+- [MySQL连环问(一)](https://mp.weixin.qq.com/s/AHO_pyZtTH71qoiRsvtRlw)
+- [MySQL连环问(二)](https://mp.weixin.qq.com/s/rZ8aH5DDH3zGmkVyfKT-zw)
+- [四本书、一个专栏，揉成这篇MySQL（一）](https://mp.weixin.qq.com/s/qKGUiglWF0EWcnFOlU3JBA)
+- [四本书、一个专栏，揉成这篇MySQL（二）](https://mp.weixin.qq.com/s/uGcHSlV0xYC1sUTtsQamzw)
+- [四本书、一个专栏，揉成这篇MySQL（三）](https://mp.weixin.qq.com/s/401CeXbEK27pX9dFOOHDnA)
+- [四本书、一个专栏，揉成这篇MySQL（四）](https://mp.weixin.qq.com/s/VjsQR_co2oM11EywegZrMw)
+
+#### MySQL的故事
+
+- [我叫小M，立志建立MySQL帝国](https://mp.weixin.qq.com/s/krJ7vXnNHAp3oYeVKni06w)
+- [我是小M，老板不当人子](https://mp.weixin.qq.com/s/eGKGVfZSKnKTLdEF3Mxomw)
 
 
 
