@@ -67,7 +67,6 @@
 - [头条终面：写个消息中间件](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485721&idx=1&sn=a30a9be1685d88c61d7dc5722d50d9c3&chksm=c1626460f615ed767a8e2e9e66f86badc0aeede9a44701ff7fd589c6f978c90369e0e4f6e341&token=1260092512&lang=zh_CN#rd)
 - [为什么那些厚厚的大头书老是看不进去？](https://mp.weixin.qq.com/s/fI1xi0pVmJ-5Y-1dKM9Tew)
 - [今年我读了四个开源项目的源码，来分享下心得](https://mp.weixin.qq.com/s/2EIH_R09e3m72K6zCRm6Dg)
-- [来吧，简历就应该这样写](https://mp.weixin.qq.com/s/IJ4qFNFSWGO9T33KPQzheg)
 - [深度剖析硬盘的秘密](https://mp.weixin.qq.com/s/HBvwn4X1aFEkKG9iYJVs0g)
 - [这本书真就这么神？看完即超神](https://mp.weixin.qq.com/s/WBfiqGhJbt6PnWhG2_Ldeg)
 - [去年，一道蚂蚁金服笔试题，还行，中等难度](https://mp.weixin.qq.com/s/XslIBmm4hAN7KciC19rxgw)
@@ -90,8 +89,8 @@
 
 ###  :cyclone: 缓存系列
 
-- [表弟面试被虐，我教他缓存连招，借机蹭了波奈雪的茶](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485750&idx=1&sn=5f0609a2e3b838dcac25e0010d9a8de3&chksm=c162644ff615ed59bb1c527a049856e9b7dc1b15733d60e5ca78f6b6fce3710b9348d84eceef&token=1260092512&lang=zh_CN#rd)
-- [表弟告状，被逼无奈我都招了- 缓存高可用](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485744&idx=1&sn=c189bb7d22ac2d5e816928c2991990a9&chksm=c1626449f615ed5fb320e67647cd2a331e9ce661fb2bbeaa047a7e4fdf13e6b0d4c5be0e5694&token=1260092512&lang=zh_CN#rd)
+- [缓存同步问题](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485750&idx=1&sn=5f0609a2e3b838dcac25e0010d9a8de3&chksm=c162644ff615ed59bb1c527a049856e9b7dc1b15733d60e5ca78f6b6fce3710b9348d84eceef&token=1260092512&lang=zh_CN#rd)
+- [缓存高可用](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485744&idx=1&sn=c189bb7d22ac2d5e816928c2991990a9&chksm=c1626449f615ed5fb320e67647cd2a331e9ce661fb2bbeaa047a7e4fdf13e6b0d4c5be0e5694&token=1260092512&lang=zh_CN#rd)
 - [Redis 作者和一位老哥关于 CRC 算法的 Battle](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485741&idx=1&sn=a36651c7e098b5b392fb8ca70de23782&chksm=c1626454f615ed42adc56291c3ba4b9d74c55198242bd2652484052e23a30fad2fdae6e97a45&token=1260092512&lang=zh_CN#rd)
 - [待更新...之后应该要写个 Redis 系列，源码级别(最新首发公众号Github更新会有延迟)](#公众号)
 
@@ -180,6 +179,7 @@
 ### :sunny:面试杂谈
 
 - [面试的套路汇总](https://mp.weixin.qq.com/s/VNPVhdebBhjgiObFBLq5Nw)
+- [来吧，简历就应该这样写](https://mp.weixin.qq.com/s/IJ4qFNFSWGO9T33KPQzheg)
 - [面试官：你有啥缺点，咋回答？](https://mp.weixin.qq.com/s/pQdF6-qNvUkOM6JtHg6I6g)
 - [结合公众号文章的六个面试装逼案例](https://mp.weixin.qq.com/s/n3T0xTcduqTwLAhfwFWr7A)
 - [嘁，哪有什么金三银四，一年四季都是面试。](https://mp.weixin.qq.com/s/zA1ZfvSk-a0GWHys7s5vUA)
