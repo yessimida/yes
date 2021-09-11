@@ -21,6 +21,14 @@
 
 我希望这个开源仓库能对你有所帮助:sparkling_heart:
 
+我把我关于消息队列的文章整理成了一份PDF开发给大家。
+
+![](https://cdn.jsdelivr.net/gh/yessimida/cdn_image/img/image-20210911184048718.png)
+
+关注我的公众号回复「**消息队列**」即可获取
+
+这里还有一份算法刷题笔记分享给大家。
+
 这里还有一份算法刷题笔记分享给大家。
 
 我当初刷算法题也是各种寻觅，找各题型专题来练习，去年在算法群遇到个小姐姐，研二拿到了多个公司的 SSP offer。
@@ -60,6 +68,8 @@
 - [五一，我想没人比我更卷了](https://mp.weixin.qq.com/s/TJ7ZJIBEL17JsVXBRcxC3w)
 - [你想“躺平”着进大厂吗？](https://mp.weixin.qq.com/s/L9NcYul-xouQiLVzgdXryg)
 - [我要开喷了](https://mp.weixin.qq.com/s/nNm5hrXKjKZQ_u9fjx_Xrg)
+- [程序员是如何卷死其它程序员的?](https://mp.weixin.qq.com/s/EN3JRYg51jAigJAj_AfomQ)
+- [许老板，是我格局小了。](https://mp.weixin.qq.com/s/FSyFK24fgmxugnzQNI9S-g)
 
 ###  :ghost:这个很重要  ###
 
@@ -85,6 +95,7 @@
 - [消息队列之事务消息，RocketMQ 和 Kafka是如何做的？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485732&idx=1&sn=3231cc9daf8bd5f8f29173adc145e5f6&chksm=c162645df615ed4bc4cf2d020b8fe63807a835760d1d53a205f2b55a8abb0ee8fc84ac00c918&token=1260092512&lang=zh_CN#rd)
 - [进阶必看的 RocketMQ ，就这篇了，一网打尽](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485714&idx=1&sn=76e95371b3188ce97f074e63dcb06f09&chksm=c162646bf615ed7deed37eb4c6a3524cc79e2c3b3e54a5a260f8846d28c6e46ca6efd4a2d654&token=1260092512&lang=zh_CN#rd)
 - [Kafka为什么要抛弃ZooKeeper？](https://mp.weixin.qq.com/s/geR3pDw_Yjhmu8KMsXQosg)
+- [RocketMQ 分布式事务消息的缺点？](https://mp.weixin.qq.com/s/cBx1l1zaThN6_808fMl27g)
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
 ###  :cyclone: 缓存系列
@@ -131,6 +142,14 @@
 
 - [Java8的Optional是不是鸡肋？](https://mp.weixin.qq.com/s/eZU83v9qd-MEjBGV03HDSw)
 
+- [Math.abs 竟然返回了负数？？](https://mp.weixin.qq.com/s/HYM_lblCGYEwnuzM83Y2HQ)
+
+- [怎样才算精通Java？](https://mp.weixin.qq.com/s/_-LmfF1qjfFAg3Jx3Wywww)
+
+- [我把 ThreadLocal 能问的，都写了](https://mp.weixin.qq.com/s/seT9Qruo3X8QxIFW5xaJCA)
+
+- [原来这就是比 ThreadLocal 更快的玩意、FastThreadLocal ](https://mp.weixin.qq.com/s/oEx3bWUtoCavwRmEqQruKQ)
+
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
   
@@ -153,6 +172,7 @@
 - [操作系统微内核和Dubbo微内核](https://mp.weixin.qq.com/s/pBnTr8U8gC26DO_9bG8BTQ)
 - [Dubbo 靠它崭露头角](https://mp.weixin.qq.com/s/dGKbkBEZht0ZlrwbktpJ5g)
 - [Dubbo 扩展自适应机制](https://mp.weixin.qq.com/s/6KL1vcTB4CJca9bXsBAgaA)
+- [Dubbo3.0解析](https://mp.weixin.qq.com/s/yyfnCrFEIzq3AikXVYF1_w)
 - [更多待更新...这个已经答应读者了，之后会写这个系列](#公众号)
 
 ###  :book:分布式  ###
@@ -167,6 +187,7 @@
 
 - [一份走心算法攻略，一份 20W 字刷题笔记](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485718&idx=1&sn=0f769e09543b93e5990ef9d8d62e4b09&chksm=c162646ff615ed792b5b96d347b576d7567cb8500a2857eb72bcef9074fc732f27211d02f021&token=1260092512&lang=zh_CN#rd)
 - [图解+代码|常见限流算法以及限流在单机分布式场景下的思考](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485754&idx=1&sn=625ae0b370b5f744bba36423fc29488a&chksm=c1626443f615ed553936cc00e63dad3f624e2fb1556981f1e3650ecc3cdcaaef4d1469dcf6e1&token=1260092512&lang=zh_CN#rd)
+- [这道算法简单题，我也能在面试官前面秀!](https://mp.weixin.qq.com/s/MYIP9UEDXnPFrXXL5ztCKA)
 
 
 
@@ -195,6 +216,8 @@
 - [四本书、一个专栏，揉成这篇MySQL（二）](https://mp.weixin.qq.com/s/uGcHSlV0xYC1sUTtsQamzw)
 - [四本书、一个专栏，揉成这篇MySQL（三）](https://mp.weixin.qq.com/s/401CeXbEK27pX9dFOOHDnA)
 - [四本书、一个专栏，揉成这篇MySQL（四）](https://mp.weixin.qq.com/s/VjsQR_co2oM11EywegZrMw)
+- [57张图，13个实验，干死 MySQL 锁！](https://mp.weixin.qq.com/s/bhsAzbJuFG2MUVSBOAlj4A)
+- [关于 MySQL insert 和自增 ID 的奇怪事件](https://mp.weixin.qq.com/s/4R-GXwfqNAi2OoiMHJcQ0A)
 
 #### MySQL的故事
 
