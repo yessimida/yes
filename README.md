@@ -15,21 +15,21 @@
 
 ### 文章汇总目录：
 
-- <a id="t1">程序人生</a>
-- <a id="t2">这个很重要</a>
-- <a id="t3">消息队列</a>
-- <a id="t4">缓存系列</a>
-- <a id="t5">Java</a>
-- <a id="t6">计算机网络</a>
-- <a id="t7">Netty</a>
-- <a id="t8">线上排查</a>
-- <a id="t9">Spring</a>
-- <a id="t10">RPC、Dubbo</a>
-- <a id="t11">分布式</a>
-- <a id="t12">算法</a>
-- <a id="t13">操作系统</a>
-- <a id="t14">面试杂谈</a>
-- <a id="t15">MySQL</a>
+- [:sunny:程序人生](#t1) 
+- [:ghost:这个很重要](#t2)
+-  [:lollipop: 消息队列 ](#t3)
+-  [:cyclone: 缓存系列 ](#t4)
+-  [:coffee: Java](#t5)
+- [:bamboo:计算机网络 ](#t6)
+- [:cherry_blossom:Netty   ](#t7)
+-  [:chestnut:线上排查  ](#t8)
+-  [:sunflower:Spring](#t9)
+-  [:jack_o_lantern:RPC、Dubbo ](#t10)
+-  [:book:分布式](#t11)
+-  [:memo:算法 ](#t12)
+-  [:round_pushpin:操作系统 ](#t13)
+-  [:sunny:面试杂谈 ](#t14)
+-  [:cherry_blossom:MySQL ](#t15)
 
 我的另一个仓库[ interview-of-legends](https://github.com/yessimida/interview-of-legends)已经写了很多包含答案的面试题，有兴趣的小伙伴可以看看，欢迎 PR
 
@@ -74,7 +74,7 @@
 
 
 
-###      [:sunny:程序人生](#t1)
+###       <a id="t1">程序人生</a>
 
 - [我辈程序员，何惧一战？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485738&idx=1&sn=b503b5f2252b812eb173fb3e1e17896b&chksm=c1626453f615ed45f544733ba4694ac237d915523ec24e3e461a17148b09ddb39de4a1704ccb&token=1260092512&lang=zh_CN#rd)
 - [编码之路，与君共勉。](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485716&idx=1&sn=e860f5b2b8fc1d7927bea173f6b4e20f&chksm=c162646df615ed7b80bffbf81ca22f9c04cfcc44df231f5f1fce171e0e9a982645a9fd959e75&token=1260092512&lang=zh_CN#rd)
@@ -110,7 +110,7 @@
 - [难受，关于最近负责设计的一个系统有感](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247496120&idx=1&sn=0c1e8dce76813f716da78e43691b9a5f&chksm=c1619cc1f61615d71b94a6821eb00e48efafafbe60d23f18155f142f913479246b9007427805&token=1912489545&lang=zh_CN#rd)
 - [我今年差点换三家公司](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247496139&idx=1&sn=840aad724f71d3320340ba02bec4fdf2&chksm=c1619cb2f61615a446ba316808ce4c71912831da87f2f6f1db902be08319148c811636506033&token=1912489545&lang=zh_CN#rd)
 
-###    [:ghost:这个很重要](#t2)  ###
+###    ​ <a id="t2">这个很重要</a>   ###
 
 - [国庆期间，我造了台计算机](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485722&idx=1&sn=e032d32e57e35a0810b321ab40e79473&chksm=c1626463f615ed75aad42769717018640cafa559106782915874963353ee0733756ce3259090&token=1260092512&lang=zh_CN#rd)
 - [头条终面：写个消息中间件](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485721&idx=1&sn=a30a9be1685d88c61d7dc5722d50d9c3&chksm=c1626460f615ed767a8e2e9e66f86badc0aeede9a44701ff7fd589c6f978c90369e0e4f6e341&token=1260092512&lang=zh_CN#rd)
@@ -125,7 +125,7 @@
 - [同样是学，如何超越别人？谈谈我的心得](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247494780&idx=1&sn=91d55b76ffce8776d4c922ec2d0c06cc&chksm=c1618105f61608134b4cd2a29d079fba21a8bd61e3c45f77039fc4ac00f34ed30297aef247e3&token=1912489545&lang=zh_CN#rd)
 
 
-###     [:lollipop: 消息队列](#t3)
+###      <a id="t3">消息队列</a>
 
 - [消息队列面试连环问：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485753&idx=1&sn=d22f8adc8eb0dfc08163e160127f6b17&chksm=c1626440f615ed565d8a2ceee7335ddce26ce2d9364474a276e8dbb8767bcc6ebb0f7e298f71&token=1260092512&lang=zh_CN#rd)
 - [Kafka请求的处理全流程解析](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485755&idx=1&sn=da48413d267921dbcf0027bf4a2a1c21&chksm=c1626442f615ed5470b99c7c7f574ffc049851860fbc767048337cb07fb722a2c39fd3f8498b&token=1260092512&lang=zh_CN#rd)
@@ -140,7 +140,7 @@
 - [RocketMQ 分布式事务消息的缺点？](https://mp.weixin.qq.com/s/cBx1l1zaThN6_808fMl27g)
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
-###   [:cyclone: 缓存系列](#t4)
+###    <a id="t4">缓存系列</a>
 
 - [缓存同步问题](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485750&idx=1&sn=5f0609a2e3b838dcac25e0010d9a8de3&chksm=c162644ff615ed59bb1c527a049856e9b7dc1b15733d60e5ca78f6b6fce3710b9348d84eceef&token=1260092512&lang=zh_CN#rd)
 - [缓存高可用](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485744&idx=1&sn=c189bb7d22ac2d5e816928c2991990a9&chksm=c1626449f615ed5fb320e67647cd2a331e9ce661fb2bbeaa047a7e4fdf13e6b0d4c5be0e5694&token=1260092512&lang=zh_CN#rd)
@@ -148,7 +148,7 @@
 - [待更新...之后应该要写个 Redis 系列，源码级别(最新首发公众号Github更新会有延迟)](#公众号)
 
 
-###    [:coffee: Java](#t5)
+###     <a id="t5">Java </a>
 
 - [你用对锁了吗？浅谈 Java “锁” 事](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485739&idx=1&sn=801792f4987c4c3bd3d976d030476113&chksm=c1626452f615ed441749a6dd8e3e1e4d73187247b12824e968093c1fa1f950a90b8e7d428729&token=1260092512&lang=zh_CN#rd)
 - [深度揭秘垃圾回收底层，这次让你彻底弄懂它](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485910&idx=1&sn=54ebca3a2dfe449e7f922f347aa4d2dc&chksm=c16264aff615edb9f4d76a2c02c220ec653bfcecf72306d1974ac3b307620a88124388b328f6&token=1260092512&lang=zh_CN#rd)
@@ -192,7 +192,7 @@
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
 
-###    [:bamboo:计算机网络 ](#t6)  ###
+###     <a id="t6">计算机网络</a>   ###
 
 - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485731&idx=1&sn=5b95cefa09ef1e72a8010339654b0e5d&chksm=c162645af615ed4c3b56abd083bb4c27a81d4e492682cd54a44a868cfd180f159f93184901bc&token=1260092512&lang=zh_CN#rd)
 - [一文领略 HTTP 的前世今生](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485724&idx=1&sn=70f1bbea6280ca6cee467ceac4633c8a&chksm=c1626465f615ed7300accbce4f67046306b6a5011ac6b2a54cde6de6a275bb15c88da332dc37&token=1260092512&lang=zh_CN#rd)
@@ -200,7 +200,7 @@
 - [HTTPS前置篇，加密算法](https://mp.weixin.qq.com/s/hQXG8RL1opi1hCVJMXtKKw)
 - [更多待更新...(最新首发公众号Github更新会有延迟)](#公众号)
 
-### [:cherry_blossom:Netty   ](#t7)
+### <a id="t7">Netty</a> 
 
 - [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247493163&idx=1&sn=6e579a0433157c31beaa87e7defb26ac&chksm=c1618b52f61602449eb8212a4a6b54a025918fea2824c8235e2924a836c0759eea777cce7ce7&token=1912489545&lang=zh_CN#rd)
 - [让我们，从头到尾，通透I/O模型](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247493642&idx=1&sn=113839708c9a0acf9fb8e4a9f5fc02bc&chksm=c1618573f6160c650b0dd2e1dede03f8bdbca06668697f756e8f2262d86d6b3c15622ecc0e68&token=1912489545&lang=zh_CN#rd)
@@ -217,12 +217,12 @@
 - [Netty ，这次拿下核心 Pipeline](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495010&idx=1&sn=a07a874dc8ab2c6b9869998bda12828d&chksm=c161801bf616090dde0ee856f0ac180b2d967dad2cd7b363985ad2401d0c54519058d7bcd190&token=1912489545&lang=zh_CN#rd)
 - [你真的理解粘包与半包吗？3分钟搞懂它](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495226&idx=1&sn=49682f3867e8b650975d2a012536a534&chksm=c1618343f6160a55c8d91a0eaec66dc1fc5b5d0c8026b03407cf747653e4b179fd993a9423ad&token=1912489545&lang=zh_CN#rd)
 
-### [:chestnut:线上排查  ](#t8)
+### <a id="t8">线上排查</a>
 
 - [热乎的，线上问题排查，拿去面试用！](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247493432&idx=1&sn=cb8c4438fa515c3bd1e20ec03e868677&chksm=c1618a41f61603578880b0e5026e657e23d17ea232210a5116aca8caf0b16842428eff936240&token=1912489545&lang=zh_CN#rd)
 - [刚线上又出现一个问题。。。热乎的](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247493913&idx=1&sn=5acbd515837eb4fe89e48f325280bc7c&chksm=c1618460f6160d7634fbc3676a59976ab80479102d332d762ecb22f00765e8a1b4d64b1cc8f5&token=1912489545&lang=zh_CN#rd)
 
-###  [:sunflower:Spring](#t9)
+###  <a id="t9">Spring</a>
 
 - [Spring循环依赖，我本来都不想写的，但网上好多错误观点](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247494774&idx=1&sn=b2a4f49aad1bd5838f610b48c010ba0f&chksm=c161810ff616081945b97e1e482804a9dee85ab43b111b01bd02d1f600c4dcc7ef3b776f60ee&token=1912489545&lang=zh_CN#rd)
 - [几乎必问,Spring 面试题开胃菜](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247494796&idx=1&sn=3204cbe0c725abfcdacc5614f4fbd14b&chksm=c16181f5f61608e3440ef4f618533677d72997572b93fe6ace2cde2070aefec4816946452328&token=1912489545&lang=zh_CN#rd)
@@ -231,7 +231,7 @@
 - [好了，Spring 随便问吧](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247494946&idx=1&sn=2ee769e2b6e3be474d834a725d0e9b58&chksm=c161805bf616094d6790d5b38eb430d9c7c58d1f223cd2c76522fd658c5ebc566776cae83a5f&token=1912489545&lang=zh_CN#rd)
 - [Spring DeferredResult 是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495648&idx=1&sn=7f56c63e59022bcdb6274afafd2b8596&chksm=c1618299f6160b8f8153ad945033eaf4c4edcca7647f2b1cbb6a8ba507e0a31f32c28f272e0b&token=1912489545&lang=zh_CN#rd)
 
-###  [:jack_o_lantern:RPC、Dubbo ](#t10)  ###
+###  <a id="t10">RPC、Dubbo</a>  ###
 
 - [Dubbo 这波优化好像不够彻底啊？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485729&idx=1&sn=cc8ed967615de699e5733790f2099846&chksm=c1626458f615ed4efb4ba789458ed441932a20c1e88cf0a0f0f7a00311b149bd0e14b1fd9439&token=1260092512&lang=zh_CN#rd)
 - [RPC 核心，万变不离其宗](https://mp.weixin.qq.com/s/XrbnAcW7eFjMsIQy2W4_kQ)
@@ -243,13 +243,13 @@
 - [我在新公司做的第一个技术优化](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495410&idx=1&sn=148f9a0abf6eeba83b98790477ae1147&chksm=c161838bf6160a9d08e75ebdf90217a3526afc2404fc04d5af3d5c738cee50e56e042ace87c0&token=1912489545&lang=zh_CN#rd)
 - [更多待更新...这个已经答应读者了，之后会写这个系列](#公众号)
 
-###    [:book:分布式](#t11)  ###
+###    <a id="t11">分布式</a>  ###
 
 - [分布式事务一网打尽！！！！](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485728&idx=1&sn=f1ea6c37d5eb0d2a69315a08b0d1263b&chksm=c1626459f615ed4fbc58052d0f92a09debc392f0d53fa13a98d3c5cf402a110b2aea5e0cda29&token=1260092512&lang=zh_CN#rd)
 
 - [更多待更新...比如选举算法、分布式锁等等](#公众号)
 
-###    [:memo:算法 ](#t12)  ###
+###    <a id="t12">算法</a>  ###
 
 - [一份走心算法攻略，一份 20W 字刷题笔记](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485718&idx=1&sn=0f769e09543b93e5990ef9d8d62e4b09&chksm=c162646ff615ed792b5b96d347b576d7567cb8500a2857eb72bcef9074fc732f27211d02f021&token=1260092512&lang=zh_CN#rd)
 - [图解+代码|常见限流算法以及限流在单机分布式场景下的思考](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485754&idx=1&sn=625ae0b370b5f744bba36423fc29488a&chksm=c1626443f615ed553936cc00e63dad3f624e2fb1556981f1e3650ecc3cdcaaef4d1469dcf6e1&token=1260092512&lang=zh_CN#rd)
@@ -257,11 +257,11 @@
 - [还好我面试没遇到这题....脑洞得大！](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247493193&idx=1&sn=848577899988ef97462ca57d42c22e29&chksm=c1618b30f61602269de7d99e8e96ff13c73d91f7c2e5f05f86a143ce1ab48bd9480484291c85&token=1912489545&lang=zh_CN#rd)
 - [分享一道我之前遇到的面试题，面试官说答不出来正常](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495736&idx=1&sn=74afb1c41f0ce9f517022ba082bd11ba&chksm=c1619d41f61614572d9911fbf98d4026776991154bb0b56f3f7c53aa4000948dc60e3c2d9db1&token=1912489545&lang=zh_CN#rd)
 
-###     [:round_pushpin:操作系统 ](#t13)
+###     <a id="t13">操作系统</a>
 
 - [内存分页不就够了？为什么还要分段？](https://mp.weixin.qq.com/s/6F9LE3PJ44TraJMyX2S6sA)
 
-###   [:sunny:面试杂谈 ](#t14)
+###   <a id="t14">面试杂谈</a>
 
 - [面试的套路汇总](https://mp.weixin.qq.com/s/VNPVhdebBhjgiObFBLq5Nw)
 - [来吧，简历就应该这样写](https://mp.weixin.qq.com/s/IJ4qFNFSWGO9T33KPQzheg)
@@ -280,7 +280,7 @@
 - [关于最近面试，分享一些关键点](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247494660&idx=1&sn=c95c40972f69a34c38a1bc0d48255709&chksm=c161817df616086b03ab982dba37c73556d2a77a1b47bba695ac208b9614597f18bb59ec7f70&token=1912489545&lang=zh_CN#rd)
 - [覆盖全面的美团一面，一小时40分钟](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247495665&idx=1&sn=3807e8ad5e4466eac4dd7d3d891b3d78&chksm=c1618288f6160b9e4c4247a4c5b1381090326dfbf3f7cb37ca19e8ed9d9d11acc9eeaa987cfa&token=1912489545&lang=zh_CN#rd)
 
-###  [:cherry_blossom:MySQL ](#t15)
+###  <a id="t15">MySQL</a>
 
 - [MySQL连环问(一)](https://mp.weixin.qq.com/s/AHO_pyZtTH71qoiRsvtRlw)
 - [MySQL连环问(二)](https://mp.weixin.qq.com/s/rZ8aH5DDH3zGmkVyfKT-zw)
